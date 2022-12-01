@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/advent_day1_data</file>
+        <file>data/advent_day1_data_test</file>
+    </qresource>
+</RCC>
